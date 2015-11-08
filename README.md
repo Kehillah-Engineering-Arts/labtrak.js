@@ -2,7 +2,7 @@
 This is the Node.js clone for the Labtrak project.
 
 ### Dependencies
-- Node.js + npm
+- Node.js
 - MongoDB
 
 ### Setup
